@@ -28,4 +28,13 @@ Project Steps
 
 11.Extracting and Presenting Insights.
 
+PROJECT OBJECTIVE
+
+Assess Sales Performance: Gain insights into overall and average sales across various dimensions.
+
+Detect Key Patterns: Analyze trends in sales based on product categories, store locations, and establishment periods.
+
+Understand Customer Preferences: Examine customer ratings and preferences for different products.
+
+Support Data-Driven Decisions: Equip stakeholders with interactive visualizations to drive informed decision-making.
 
