@@ -1,10 +1,10 @@
 Blinkit PowerBI Project
 
-Project Overview
+PROJECT OVERVIEW
 
 The Blinkit Project is designed to offer an in-depth analysis of Blinkit's sales trends, customer satisfaction levels, and inventory management. By leveraging Power BI, this project aims to present meaningful insights through key performance indicators (KPIs) and interactive visualizations, enabling data-driven decision-making and identifying areas for improvement.
 
-Project Steps
+PROJECT STEPS
 
 1.Business Requirements Analysis.
 
@@ -27,6 +27,7 @@ Project Steps
 10.Building Reports and Dashboards.
 
 11.Extracting and Presenting Insights.
+
 
 PROJECT OBJECTIVE
 
